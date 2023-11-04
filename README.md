@@ -3,6 +3,7 @@ Backend, SQL, and DevOps with Python - 30th Oct 2023 to 10th Feb 2024
 
 
 First python file is battlegame.py
+Using both VS Code and Replit
 
 There are 4 main tasks and 5 bonus tasks. 
 Game requires player to choose a character to play and whether or not the player wants to quite the game.
